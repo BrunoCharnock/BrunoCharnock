@@ -1,51 +1,23 @@
 ## Hi there 👋 I'm Bruno
 
-I'm a **Software Engineer** obsessed with tech and driven by solving real problems with meaningful, smart solutions.
+I'm a **Software Engineer** based in Brazil.
 
-I work mainly with **back-end development**, but I also enjoy building **side projects**, exploring **game programming**, and experimenting with new ideas.
+Thinking about ways to improve things or make them easier is kinda natural at this point. Building and bringing ideas to life is one of the most satisfying things for me.
 
----
-
-### 🧠 What I do
-- Build and maintain scalable systems
-- Develop and integrate REST APIs and services  
-- Work with legacy systems, refactoring and modernizing code  
-- Create tools and solutions that improve real-world workflows  
-
----
-
-### 🛠️ Tech Stack
-**Back-end**
-- C#, .NET (Framework & Core)
-
-**Front-end**
-- JavaScript, TypeScript, Angular, React
-
-**Databases**
-- SQL Server
-
-**Tools & Others**
-- Git, GitLab
-- Swagger / OpenAPI
-- Postman
-- Cloudflare
-- Homelab (Self-hosting, automation and services)
-- Jira  
+My professional tech stack includes C#, .NET (Framework & Core), SQL Server, JavaScript, React, and Angular. I also enjoy messing around with different technologies, learning new stuff is a lot of fun.
 
 ---
 
 ### 🌱 Currently learning
-- Cloud fundamentals (AWS)
-- Containers & DevOps basics (Docker)
+- AWS
+- Containers & DevOps
 
 ---
 
-### 🎮 Side interests
+### 🎮 Side Interests
 - Game programming & creative projects  
-- Automation tools and experimental solutions  
-
----
+- Homelabbing (Self-hosting, automation and services)
 
 ### 📫 Get in touch
 - 💼 LinkedIn: [linkedin.com/in/brunocharnock](https://linkedin.com/in/brunocharnock)
-- 🔗 Portfolio: https://www.brunocharnock.com.br/
+- 🔗 Portfolio: [brunocharnock.com.br](https://www.brunocharnock.com.br/)
