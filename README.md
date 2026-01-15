@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi there 👋 I'm Bruno
 
-<!--
-**BrunoCharnock/BrunoCharnock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** obsessed with tech and driven by solving real problems with meaningful, smart solutions.
 
-Here are some ideas to get you started:
+I work mainly with **back-end development**, but I also enjoy building **side projects**, exploring **game programming**, and experimenting with new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I do
+- Build and maintain scalable systems
+- Develop and integrate REST APIs and services  
+- Work with legacy systems, refactoring and modernizing code  
+- Create tools and solutions that improve real-world workflows  
+
+---
+
+### 🛠️ Tech Stack
+**Back-end**
+- C#, .NET (Framework & Core)
+
+**Front-end**
+- JavaScript, TypeScript, Angular, React
+
+**Databases**
+- SQL Server
+
+**Tools & Others**
+- Git, GitLab
+- Swagger / OpenAPI
+- Postman
+- Cloudflare
+- Homelab (Self-hosting, automation and services)
+- Jira  
+
+---
+
+### 🌱 Currently learning
+- Cloud fundamentals (AWS)
+- Containers & DevOps basics (Docker)
+
+---
+
+### 🎮 Side interests
+- Game programming & creative projects  
+- Automation tools and experimental solutions  
+
+---
+
+### 📫 Get in touch
+- 💼 LinkedIn: [linkedin.com/in/brunocharnock](https://linkedin.com/in/brunocharnock)
+- 🔗 Portfolio: https://www.brunocharnock.com.br/
