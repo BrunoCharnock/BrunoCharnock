@@ -1,4 +1,4 @@
-🇺🇸 Looking for the English version? [Click here](README-EN.md)
+Looking for the English version? [Click here](README-EN.md)
 
 ## Olá 👋 Eu sou o Bruno
 
