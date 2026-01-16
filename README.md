@@ -1,23 +1,25 @@
-## Hi there 👋 I'm Bruno
+🇺🇸 Looking for the English version? [Click here](README-EN.md)
 
-I'm a **Software Engineer** based in Brazil.
+## Olá 👋 Eu sou o Bruno
 
-Thinking about ways to improve things or make them easier is kinda natural at this point. Building and bringing ideas to life is one of the most satisfying things for me.
+Sou **Engenheiro de Software**, moro em São Paulo - SP.
 
-My professional tech stack includes C#, .NET (Framework & Core), SQL Server, JavaScript, React, and Angular. I also enjoy messing around with different technologies, learning new stuff is a lot of fun.
+Pensar em formas de melhorar processos ou tornar as coisas mais simples já é algo que não consigo evitar. Construir e tirar ideias do papel é uma das partes mais satisfatórias do meu trabalho.
+
+Minha stack profissional inclui C#, .NET (Framework & Core), SQL Server, JavaScript, React e Angular. Sou um entusiasta de tecnologia então explorar e aprender coisas novas faz parte da diversão.
 
 ---
 
-### 🌱 Currently learning
+### 🌱 Atualmente estudando
 - AWS
 - Containers & DevOps
 
 ---
 
-### 🎮 Side Interests
-- Game programming & creative projects  
-- Homelabbing (Self-hosting, automation and services)
+### 🎮 Interesses paralelos
+- Programação de jogos e projetos criativos  
+- Homelab (self-hosting, automação e serviços)
 
-### 📫 Get in touch
+### 📫 Contato
 - 💼 LinkedIn: [linkedin.com/in/brunocharnock](https://linkedin.com/in/brunocharnock)
-- 🔗 Portfolio: [brunocharnock.com.br](https://www.brunocharnock.com.br/)
+- 🔗 Portfólio: [brunocharnock.com.br](https://www.brunocharnock.com.br/)
